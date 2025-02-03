@@ -39,6 +39,4 @@ The site should display this
 - Dynamic product listings
 - Semantic UI styling
 
-    ```sh
-git add .
-git commit -m "Completed Voting App Assignment"
+  
